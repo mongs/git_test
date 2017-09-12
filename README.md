@@ -45,4 +45,24 @@
 
 ![image](https://www.baidu.com/img/bd_logo1.png)
 
-![image](http://oi7edk8dy.bkt.clouddn.com/ntc%E8%AF%81%E4%B9%A6.jpg)
+---
+
+
+```js
+function show(){
+
+}
+```
+
+```html
+<p>
+样式 <a href="https://baidu.com">链接</a>
+</p>
+```
+
+内联的代码`alert('hello world')`内联的代码
+
+header 1 | header 2 | header 3
+---|--- | --- |
+row 1 col 1 | row 1 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
