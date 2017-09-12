@@ -46,4 +46,4 @@
 ![image](https://www.baidu.com/img/bd_logo1.png)
 
 
-![图片](https://qiniu.staticfile.org/static/images/qiniulogo.36f45871.svg)
+![图片](http://oi7edk8dy.bkt.clouddn.com/ntc%E8%AF%81%E4%B9%A6.jpg)
